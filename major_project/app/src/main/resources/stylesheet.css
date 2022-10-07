@@ -1,0 +1,17 @@
+.choice-box .context-menu {
+    -fx-pref-width: 210; 
+}
+.text-area {
+    -fx-border-radius: 40;
+    -fx-background-radius: 40;
+
+    /* top-left, top-right, bottom-right, and bottom-left corners, in that 
+    order. */
+}
+
+.text-area .scroll-pane{
+    -fx-border-radius: 40;
+    -fx-background-radius: 40;
+    /* top-left, top-right, bottom-right, and bottom-left corners, in that 
+    order. */
+   }
